@@ -10,4 +10,4 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 ## Your Explanation Here
 
-I've removed the nested "if's" making it more readable, moved the contanst to outiside the function, so it can be reused and it is not clared every time the function is called, add a optional chainning to an 'if' statement as it is more readable and created a encrypt function to keep the code DRY and readable,
+I've removed the nested "if's" making it more readable, moved the contanst to outiside the function, so it can be reused and it is not redeclared every time the function is called, add an optional chainning to an 'if' statement as it is more readable and created a encrypt function to keep the code DRY and readable,
